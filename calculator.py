@@ -1,7 +1,7 @@
 print("enter your first number")
 n1=input()
 
-print("enter your secound number")
+print("enter your second number")
 n2=input()
 
 print("enter your third number")
